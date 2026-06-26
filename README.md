@@ -8,9 +8,8 @@ A simple **Bottom Sheet** component built using **React**, **Vite**, **Tailwind 
 
 Add your project screenshot inside the **public** folder.
 
-```md
+
 ![Bottom Sheet Screenshot](public/output.png)
-```
 
 ---
 
